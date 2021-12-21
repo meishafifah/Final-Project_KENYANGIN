@@ -1,0 +1,56 @@
+.navbar {
+    background-color: #16243F!important;
+}
+
+.navbar .brand{
+    font-family: righteous;
+}
+
+.btn{
+    border-radius: 30px;
+}
+
+body{
+    background-color: #B3CCC9;
+    color: white;
+}
+
+.block-acc{
+    text-align: center;
+    margin: 100px;
+    width: 70%;
+    border-radius: 50px;
+    background-color: #16243F;
+    padding: 80px 100px 80px 100px;
+}
+
+.block-center{
+    text-align: -webkit-center;
+}
+
+.img-acc{
+    width: 25%;
+}
+
+.input{
+    background-color: white;
+    border-radius: 20px;
+    height: 40px;
+    margin-top: 20px;
+    text-align: left;
+    padding: 5px 20px 5px 20px;
+}
+
+.input input{
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 80px;
+    background-color: #16243F;
+    text-align: center;
+    font-size: 14px;
+}

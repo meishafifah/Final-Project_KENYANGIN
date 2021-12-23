@@ -88,6 +88,7 @@ footer{
     font-family: righteous;
     margin-bottom: 50px;
 }
+
 .menu .col-md-12{
     margin-top: 30px;
 }
@@ -98,6 +99,16 @@ footer{
 
 .menu .card {
     border-radius: 30px;
+}
+
+.menu a{
+    text-decoration: none!important;
+
+}
+
+.menu .card-title, .menu .card-text {
+    color: black;
+    font-style: normal;
 }
 
 .menu .card img {

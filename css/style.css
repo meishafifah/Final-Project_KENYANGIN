@@ -1,3 +1,7 @@
+.biru {
+    color: #16243F;
+}
+
 .navbar {
     background-color: #16243F!important;
 }
@@ -118,5 +122,48 @@ footer{
 .toko .cover {
     width: 100%;
     height: 330px;
+}
+
+.toko .kupon {
+    background: #16243F;
+    color: white;
+    width: 100%;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.toko .block-menu {
+    background: white;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.toko .block-menu h4 {
+    font-family: righteous;
+}
+
+.toko .block-menu .ic-menu {
+    width: 100%;
+    border-radius: 30px;
+}
+
+.toko .block-menu .btn {
+    background: #16243F;
+    border-radius: 10px;
+}
+
+.toko .block-menu .btn img {
+    width: 100%;
+}
+
+.toko .block-menu .col-md-8 {
+    text-align: right;
+    align-self: center;
+}
+
+.toko .block-menu .col-md-8 input {
+    border: none;
+    width: 50px;
 }
 
